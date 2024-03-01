@@ -9,6 +9,6 @@ Screenshots are taken based on the commit: [a6f697b](https://github.com/ichirei/
 
 ---
 
-**Info**
+### Info
 - Terminal: alacritty
-- Font: DaddyTimeMono Nerd Font
+- Font: Agave Nerd Font
